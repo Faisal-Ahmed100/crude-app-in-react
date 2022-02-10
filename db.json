@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Faisal",
+      "username": "faisal838987",
+      "email": "princepavel100@gmail.com",
+      "phone": "01729462003",
+      "website": "https://reactwebsiteclone.netlify.app",
+      "id": 1
+    },
+    {
+      "name": "sayma",
+      "username": "sayma@111",
+      "email": "sayma111@gmail.com",
+      "phone": "01752014658",
+      "website": " https://google.com",
+      "id": 2
+    }
+  ]
+}
