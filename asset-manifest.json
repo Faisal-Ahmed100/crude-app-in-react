@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crude-app-in-react/static/css/main.2c8ac2bc.css",
+    "main.js": "/crude-app-in-react/static/js/main.ff957b9a.js",
+    "index.html": "/crude-app-in-react/index.html",
+    "main.2c8ac2bc.css.map": "/crude-app-in-react/static/css/main.2c8ac2bc.css.map",
+    "main.ff957b9a.js.map": "/crude-app-in-react/static/js/main.ff957b9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c8ac2bc.css",
+    "static/js/main.ff957b9a.js"
+  ]
+}
